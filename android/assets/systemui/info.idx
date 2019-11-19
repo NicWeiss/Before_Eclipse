@@ -1,0 +1,6 @@
+count : 5
+el : 0 : button : new
+el : 1 : button : load
+el : 2 : button : info
+el : 3 : button : settings
+el : 4 : button : exit

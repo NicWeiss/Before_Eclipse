@@ -1,0 +1,8 @@
+count : 7
+el : 0 : button : menu
+el : 1 : image : background
+el : 2 : button : open
+el : 3 : button : save
+el : 4 : button : exit
+el : 5 : button : close
+el : 6 : image : overlay
